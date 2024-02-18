@@ -25,3 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfian-code&show_icons=true&locale=en" alt="alfian-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfian-code&" alt="alfian-code" /></p>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ALFIAN-code/ALFIAN-code/output/snake.svg" alt="Snake animation" />
+
+###
