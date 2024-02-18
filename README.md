@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfian-code" alt="alfian-code" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and bloc state management**
+- 🌱 I’m currently learning **Flutter and Getx state management**
 
-- 💬 Ask me about **Flutter, Hive Database**
+- 💬 Ask me about **Flutter, Hive Database, Getx state manaement**
 
 - 📫 How to reach me **allvvnt@gmail.com**
 
