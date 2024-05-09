@@ -29,6 +29,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ALFIAN-code/ALFIAN-code/output/snake.svg" alt="Snake animation" />
 
 ###
