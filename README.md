@@ -29,5 +29,6 @@
 
 <br clear="both">
 
+![Snake animation](https://raw.githubusercontent.com/ALFIAN-code/ALFIAN-code/output/github-contribution-grid-snake-dark.svg)
 
 ###
