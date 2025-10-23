@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Getx, firebase,**
 
-- 💬 Ask me about **Flutter, Getx state management,Hive database**
+- 💬 Ask me about **Flutter, Getx state management,Hive database, grpc | linux, hyprland, ricing arch**
 
 - 📫 How to reach me **email : allvvnt@gmail.com, IG : @allvvnt**
 
